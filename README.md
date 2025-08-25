@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Mohit v Patil  (SPPU Graduate in CE).
+## Hi there 👋 I'm Mohit v Patil  (SPPU Graduate in Computer Engineering).
 
 
 # 💫 About Me:
