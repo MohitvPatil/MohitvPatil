@@ -34,14 +34,6 @@
 
 ---
 
-# 🚀 Top Projects:
-- [🟠 Orange News Aggregator](https://github.com/MohitvPatil/Orange-News-Aggregator) – Real-time news feed about oranges (Nagpur focus).  
-- [🖐 Gesture Controlled Presentation](https://github.com/MohitvPatil/Gesture-PowerPoint) – Control PPT slides with hand gestures using OpenCV.  
-- [📰 Custom News Aggregator](https://github.com/MohitvPatil/News-Aggregator) – Multi-source, category-based aggregator with live updates.  
-- [🔐 HealXCare Authentication](https://github.com/MohitvPatil/HealXCare-Auth) – Firebase-based secure login/registration system.  
-
----
-
 # 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitvpatil)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2318A303.svg?style=plastic&logo=ionic&logoColor=white)](https://https://mohitvpatil.vercel.app//)  
@@ -50,7 +42,7 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MohitvPatil&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+ 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohitvPatil&theme=dark&hide_border=false&layout=compact)  
 
 ---
