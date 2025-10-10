@@ -41,7 +41,7 @@
 
 ## 📫 Connect with Me  
 - ✉️ Email: **mohitvpatil2003@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohit-patil-bb48b024a/)  
 - 🌐 [Portfolio Website](https://mohitvpatil.vercel.app/)
 
 ---
