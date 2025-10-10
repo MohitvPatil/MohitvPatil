@@ -33,7 +33,7 @@
 ## 📌 Featured Projects  
 - 📰 **[News Aggregator](#)** – Responsive Next.js site with dynamic categories, RSS feeds & dark/light mode.  
 - 🍊 **[Orange Freshness AI](#)** – AI/ML model & Next.js API to detect orange freshness from images.  
-- 🤚 Hand Gesture PowerPoint Controller – Control presentations using hand gestures with OpenCV and cvzone’s HandTrackingModule. Supports slide navigation, annotation, and pointer control in real time.
+- 🤚 **[Hand Gesture PowerPoint Controller](#)** – Control presentations using hand gestures with OpenCV and cvzone’s HandTrackingModule. Supports slide navigation, annotation, and pointer control in real time.
   
 *(More projects available in my repositories!)*  
 
