@@ -1,7 +1,7 @@
 
 # Hi there, I'm Mohit Patil 👋  
 
-🎓 **Computer Engineering Student** | 💻 **Full-Stack Developer** | 🔬 **AI & ML Enthusiast**  
+🎓 **Computer Engineering Grad** | 💻 **Full-Stack Developer** | 🔬 **AI & ML Enthusiast**  
 
 ---
 
