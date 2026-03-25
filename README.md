@@ -1,42 +1,44 @@
-
 # Hi there, I'm Mohit Patil 👋  
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=MohitvPatil&style=flat-square" alt="Profile Views" />
+</p>
 
-🎓 **Computer Engineering Grad** | 💻 **Full-Stack Developer** | 🔬 **AI & ML Enthusiast**  
-
----
-
-## 👨‍💻 About Me  
-- 🌍 Based in **Pune, India**  
-- 📚 **B.E. in Computer Engineering** at *Savitribai Phule Pune University (SPPU)*  
-- 🏗️ Passionate about building scalable, production-ready applications  
-- ⚡ Enthusiast in **Computer, Technology**  
-- 🚀 Currently exploring **Next.js, AI/ML models, and Cloud Deployments**  
+🎓 Computer Engineering Graduate | 💻 Full-Stack Developer | 🔬 AI & ML Enthusiast  
 
 ---
 
-## 🔧 Tech Stack  
+## About Me  
+I am a Computer Engineering graduate based in Pune, India, with a strong focus on building reliable and scalable web applications. I have hands-on experience in full-stack development and a growing interest in AI/ML-driven solutions. I value clean architecture, practical problem-solving, and continuous learning.
+
+---
+
+## Tech Stack  
 
 **Languages:**  
-`C++` `Python` `JavaScript` `TypeScript`  
+`C++` `JavaScript` `TypeScript`  
 
 **Frontend:**  
-`Next.js` `React` `Tailwind CSS`  
+`HTML` `CSS` `React`  
 
 **Backend:**  
-`Node.js` `Express.js` `Firebase` `MongoDB` `SQL`  
+`Node.js` `Express.js` `REST APIs` `Firebase`  
 
-**Other Tools & Platforms:**  
-`Git & GitHub` `Vercel` `REST APIs` `OpenCV` `Machine Learning`  
+**Databases & Tools:**  
+`MySQL` `Firebase` `Git` `GitHub` `VS Code`  
+
+**Core Concepts:**  
+`Data Structures and Algorithms` `API Design` `Authentication & Authorization`  
 
 ---
 
 ## 📌 Featured Projects  
-- 📰 **[News Aggregator](#)** – Responsive Next.js site with dynamic categories, RSS feeds & dark/light mode.  
-- 🍊 **[Orange Freshness AI](#)** – AI/ML model & Next.js API to detect orange freshness from images.  
-- 🤚 **[Hand Gesture PowerPoint Controller](#)** – Control presentations using hand gestures with OpenCV and cvzone’s HandTrackingModule. Supports slide navigation, annotation, and pointer control in real time.
-  
-*(More projects available in my repositories!)*  
 
+| Project | Description | Tech Stack |
+|--------|------------|-----------|
+| News Aggregator | Web application that fetches and displays categorized news using RSS feeds with user customization. | Next.js, TypeScript, Tailwind |
+| Orange Freshness AI | AI-based system to detect orange freshness using image processing and ML models. | Python, OpenCV, Next.js |
+| Gesture PPT Controller | Controls presentations using real-time hand gesture recognition. | Python, OpenCV, cvzone |
+| Health Sync | Web app that calculates calories and macronutrients based on user inputs and fitness goals. | React, Node.js, Express |
 ---
 
 ## 📫 Connect with Me  
@@ -46,8 +48,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohitvPatil&style=flat-square&color=blue" alt="Profile Views" />
-</p>
+⭐ Code with clarity. Build with discipline.
 
-⭐ *“Code with precision, build with vision, and stay grounded in tradition while embracing innovation.”*  
+
