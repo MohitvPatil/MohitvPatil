@@ -48,6 +48,7 @@ I am a Computer Engineering graduate based in Pune, India, with a strong focus o
 
 ---
 
+⭐ Deployed Projects are Private Repo's.
 ⭐ Code with clarity. Build with discipline.
 
 
