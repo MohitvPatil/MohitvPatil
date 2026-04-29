@@ -47,9 +47,9 @@ I am a Computer Engineering graduate based in Pune, India, with a strong focus o
 - 🌐 [Portfolio Website](https://mohitvpatil.vercel.app/)
 
 ---
-⭐ Deployed Projects are Private Repo's.
----
 ⭐ Code with clarity. Build with discipline.
----
+
+⭐ Deployed Projects are Private Repo's.
+
 ⭐SP = Side Projects.
 
