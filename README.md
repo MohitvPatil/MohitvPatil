@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=MohitvPatil&style=flat-square" alt="Profile Views" />
 </p>
 
-🎓 Computer Engineering Graduate | 💻 Full-Stack Developer | 🔬 AI & ML Enthusiast  
+🎓 Computer Engineering Graduate | 💻 Full-Stack Web Developer | 🔬 AI & ML Enthusiast  
 
 ---
 
@@ -18,10 +18,10 @@ I am a Computer Engineering graduate based in Pune, India, with a strong focus o
 `C++` `JavaScript` `TypeScript`  
 
 **Frontend:**  
-`HTML` `CSS` `React`  
+`HTML` `CSS` `React.js` `Next.js` 
 
 **Backend:**  
-`Node.js` `Express.js` `REST APIs` `Firebase`  
+`Node.js` `Express.js` `REST APIs`  
 
 **Databases & Tools:**  
 `MySQL` `Firebase` `Git` `GitHub` `VS Code`  
