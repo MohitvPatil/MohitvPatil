@@ -36,7 +36,7 @@ I am a Computer Engineering graduate based in Pune, India, with a strong focus o
 | Project | Description | Tech Stack |
 |--------|------------|-----------|
 | News Aggregator | Web application that fetches and displays categorized news using RSS feeds with user customization. | Next.js, TypeScript, Tailwind |
-| Orange Freshness AI | AI-based system to detect orange freshness using image processing and ML models. | Python, OpenCV, Next.js |
+| OrangeTrace | E-commerce Platform for Nagpur based orange market. AI-based system to detect orange freshness using image processing and ML models. | Python, OpenCV, Next.js |
 | Gesture PPT Controller | Controls presentations using real-time hand gesture recognition. | Python, OpenCV, cvzone |
 | Health Sync | Web app that calculates calories and macronutrients based on user inputs and fitness goals. | React, Node.js, Express |
 ---
@@ -49,7 +49,5 @@ I am a Computer Engineering graduate based in Pune, India, with a strong focus o
 ---
 ⭐ Code with clarity. Build with discipline.
 
-⭐ Deployed Projects are Private Repo's.
-
-⭐SP = Side Projects.
+⭐ SP = Side Projects.
 
