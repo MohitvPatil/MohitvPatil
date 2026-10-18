@@ -55,9 +55,3 @@ I am a Computer Engineering graduate based in Pune, India, with a strong focus o
 - ✉️ Email: **mohitvpatil2003@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohit-patil-bb48b024a/)  
 - 🌐 [Portfolio Website](https://mohitvpatil.vercel.app/)
-
----
-⭐ Code with clarity. Build with discipline.
-
-⭐ SP = Side Projects.
-
